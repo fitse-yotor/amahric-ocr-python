@@ -1,2 +1,2 @@
-# amahric-ocr-python
-amahric ocr in python and tesseract liberary
+# Amharic OCR-python
+amhahric ocr in python and tesseract liberary
